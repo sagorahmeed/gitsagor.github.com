@@ -1,0 +1,38 @@
+[
+    {
+        "heading"   : "Basic",
+        "title"     : "Lorem ipsam dolar sit a.",
+        "price"     : "$25,000",
+        "bodytitl$1" : "No Profit Target",
+        "bodytitl$2" : "No Loss Liability",
+        "bodytitl$3" : "No Evalution",
+        "bodytitl$4" : "Leverage 1:100",
+        "bodytitl$5" : "Instant Found Access",
+        "bodytitl$6" : "28 Currency Pairs and Gold",
+        "button"     : "Subscribe"
+    },
+    {
+        "heading"   : "Standard",
+        "title"     : "Lorem ipsam dolar sit a.",
+        "price"     : "$50,000",
+        "bodytitl$1" : "No Profit Target",
+        "bodytitl$2" : "No Loss Liability",
+        "bodytitl$3" : "No Evalution",
+        "bodytitl$4" : "Leverage 1:100",
+        "bodytitl$5" : "Instant Found Access",
+        "bodytitl$6" : "28 Currency Pairs and Gold",
+        "button"     : "Subscribe"
+    },
+    {
+        "heading"   : "Premium",
+        "title"     : "Lorem ipsam dolar sit a.",
+        "price"     : "$1,00,000",
+        "bodytitl$1" : "No Profit Target",
+        "bodytitl$2" : "No Loss Liability",
+        "bodytitl$3" : "No Evalution",
+        "bodytitl$4" : "Leverage 1:100",
+        "bodytitl$5" : "Instant Found Access",
+        "bodytitl$6" : "28 Currency Pairs and Gold",
+        "button"     : "Subscribe"
+    }
+]
