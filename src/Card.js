@@ -9,7 +9,9 @@ import { Container } from '@material-ui/core';
 import Data from './data.json'
 
 export default class Card extends Component {
-    render() {Data
+    render() {
+        return (
+            <div>
             <Container>
                 <div>
                     <Grid container className="gridContainer">
